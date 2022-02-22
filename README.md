@@ -16,11 +16,13 @@ Run a series of random game simulations to derive and prove your answer to the q
 
 
 # Requirements
-* Java 8+
+* **Java 8+**
 
 # Run
-`javac TheGameShow.java\n
-java TheGameShow`
+```java
+javac TheGameShow.java
+java TheGameShow
+```
 
 # Example outcome
 ```java
