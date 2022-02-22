@@ -94,6 +94,6 @@ public class TheGameShow {
 
         int totalCase = 1000; // Number of times to play the game
 
-        game.play(totalCase); // Starting the simulation
+        game.play(totalCase); // Starting the simulation 
     }
 }
