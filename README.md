@@ -23,6 +23,8 @@ Run a series of random game simulations to derive and prove your answer to the q
 java TheGameShow`
 
 # Example outcome
-`Number of Test Cases : 1000\n
-Stay : count 354 = 35.4%\n
-Switch : count 646 = 64.6%`
+```java
+Number of Test Cases : 1000
+Stay : count 354 = 35.4%
+Switch : count 646 = 64.6%
+```
